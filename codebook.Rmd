@@ -61,5 +61,6 @@ codebook_data <- detect_scales(codebook_data)
 Create codebook
 
 ```{r codebook}
+# install.packages("future")
 codebook(codebook_data)
 ```
