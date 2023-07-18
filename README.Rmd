@@ -20,6 +20,8 @@ The goal of codebook is to create codebooks in R.
 
 ## Create a codebook
 
+With [codebookr](https://brad-cannell.github.io/codebookr/):
+
 ```{r eval = FALSE}
 # install.packages("codebookr")
 library("codebookr")
