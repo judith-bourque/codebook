@@ -19,3 +19,12 @@ library("codebookr")
 study_codebook <- codebook(study)
 print(study_codebook, "basic_study_codebook.docx")
 ```
+
+With [codebook](https://github.com/rubenarslan/codebook):
+
+``` r
+# install.packages("codebook")
+library("codebook")
+
+new_codebook_rmd()
+```
